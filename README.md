@@ -4,4 +4,4 @@ The NYC Fighting Game Community is pretty large and separated.  The amount of ti
 
 If you think something should be added to the site, get in contact with me here or on [twitter](https://twitter.com/ujustgotbernied).
 
-You can view the site [here]()
+You can view the site [here](https://nycfgc/gg)
